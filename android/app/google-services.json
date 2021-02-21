@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "159546363047",
+    "firebase_url": "https://melimeter-4684a.firebaseio.com",
+    "project_id": "melimeter-4684a",
+    "storage_bucket": "melimeter-4684a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159546363047:android:c13a7d21c5bb38742c5f82",
+        "android_client_info": {
+          "package_name": "com.AzabCompany.mellimeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159546363047-a9fm3n9bfu5g6icjtpl3bvqddam5pcl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT13dpbAapb6GkfoQxHN3q5bdINy2aciU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159546363047-a9fm3n9bfu5g6icjtpl3bvqddam5pcl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159546363047:android:a4fca38c58a980b12c5f82",
+        "android_client_info": {
+          "package_name": "com.example.mellimeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159546363047-a9fm3n9bfu5g6icjtpl3bvqddam5pcl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT13dpbAapb6GkfoQxHN3q5bdINy2aciU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159546363047-a9fm3n9bfu5g6icjtpl3bvqddam5pcl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
