@@ -16,7 +16,6 @@ class ProductScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    Firebase.initializeApp();
     return Scaffold(
         appBar: AppBar(
           leading: Stack(children: [
